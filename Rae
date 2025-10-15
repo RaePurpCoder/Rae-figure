@@ -7,3 +7,4 @@ git remote add origin https://github.com/RaePurpCoder/Rae-figure.git
 git push -u origin main
 git commit -M main
 git branch -u origin main
+git add origin 
